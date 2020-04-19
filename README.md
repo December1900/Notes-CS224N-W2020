@@ -20,7 +20,9 @@ Some personal thoughts and notes about CS224N.
 - [ ] Evaluation methods for unsupervised word embeddings
 
 ### Note
+
 - [x] [Notes for CS224N-L2](http://december1900.github.io/2020/04/17/CS224N-L2/#more)
 
 ### Code
 - [x] Assignment1
+
